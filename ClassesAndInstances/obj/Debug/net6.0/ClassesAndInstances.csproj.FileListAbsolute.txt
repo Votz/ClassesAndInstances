@@ -1,0 +1,15 @@
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\bin\Debug\net6.0\ClassesAndInstances.exe
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\bin\Debug\net6.0\ClassesAndInstances.deps.json
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\bin\Debug\net6.0\ClassesAndInstances.runtimeconfig.json
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\bin\Debug\net6.0\ClassesAndInstances.dll
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\bin\Debug\net6.0\ClassesAndInstances.pdb
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.csproj.AssemblyReference.cache
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.AssemblyInfoInputs.cache
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.AssemblyInfo.cs
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.csproj.CoreCompileInputs.cache
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.dll
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\refint\ClassesAndInstances.dll
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.pdb
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ClassesAndInstances.genruntimeconfig.cache
+C:\Users\btchshtfck\source\repos\JP_TS_11\ClassesAndInstances\ClassesAndInstances\obj\Debug\net6.0\ref\ClassesAndInstances.dll
